@@ -1,0 +1,30 @@
+{
+    "recodes":[
+        [
+            {
+              "id": "1",
+              "date": "2019-01-01",
+              "title": "title 1",
+              "amount": 96
+            },
+            {
+              "id": "2",
+              "date": "2019-01-01",
+              "title": "title 2",
+              "amount": 78
+            },
+            {
+              "id": "3",
+              "date": "2019-01-01",
+              "title": "title 3",
+              "amount": 28
+            },
+            {
+              "id": "4",
+              "date": "2019-01-01",
+              "title": "title 4",
+              "amount": 3
+            }
+          ]
+    ]
+}
